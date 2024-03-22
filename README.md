@@ -1,4 +1,4 @@
-Sharp RTSP
+Sharp RTSP UWP
 ==========
 
 [![Nuget](https://img.shields.io/nuget/v/SharpRTSP)](https://www.nuget.org/packages/SharpRTSP)
@@ -13,7 +13,7 @@ A C# library to build RTSP Clients, RTSP Servers and handle RTP data streams. Th
 
 **:warning: : This library does not handle the decoding of the video or audio (eg converting H264 into a bitmap). SharpRTSP is limited to the transport layer and generates the raw data that you need to feed into a video decoder or audio decoder. Many people use FFMPEG or use Hardware Accelerated Operating System APIs to do the decoding.**
 
-
+TODO Implementing a Lightweight ecoder
 
 Walkthrough of the RTSP Client Example
 ======================================
